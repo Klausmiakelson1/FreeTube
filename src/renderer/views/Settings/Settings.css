@@ -5,9 +5,10 @@
 
 .settingsSections,
 .switchRow {
-  overflow-x: hidden;
+  /* overflow-x: hidden; */
   max-inline-size: 90%;
 }
+
 
 .switchRow {
   display: flex;
